@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/dykha04/T%C3%A9l%C3%A9chargements/git_instructions.md" added="2024-05-02T08:16:11.429558Z" modified="2024-05-07T11:53:35.979676Z" visited="2024-05-07T13:53:33.748709+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-05-07T11:53:35.979675Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dykha04/T%C3%A9l%C3%A9chargements/security-key.txt" added="2024-05-02T13:22:50.475652Z" modified="2024-05-07T11:53:35.979679Z" visited="2024-05-07T13:53:33.649123+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-05-07T11:53:35.979678Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dykha04/Documents/Test/Jarditou%20textes.txt" added="2024-05-06T14:49:04.876904Z" modified="2024-05-07T11:53:35.979672Z" visited="2024-05-07T13:53:33.762222+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-05-07T11:53:35.979670Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

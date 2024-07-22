@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_snap-store.desktop" score="9.25" last-seen="1714982097"/>
+    <application id="org.gnome.Settings.desktop" score="0.75" last-seen="1714638312"/>
+    <application id="code_code.desktop" score="19812.75" last-seen="1715611339"/>
+    <application id="firefox_firefox.desktop" score="3608.25" last-seen="1715611383"/>
+    <application id="org.gnome.Terminal.desktop" score="5672.75" last-seen="1715611062"/>
+    <application id="org.gnome.Nautilus.desktop" score="107" last-seen="1715611255"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1715606317"/>
+    <application id="org.gnome.TextEditor.desktop" score="11.5" last-seen="1715084766"/>
+  </context>
+</application-state>
